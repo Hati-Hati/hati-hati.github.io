@@ -4,7 +4,8 @@ body {
   margin: 32px;
 }
 div  {
-  width: 400px;
+  box-sizing: border-box;
+  width: 380px;
   height: auto;
   margin: 16px auto;
   padding: 0 16px 0
@@ -39,4 +40,5 @@ h2 {
 }
 section p {
   line-height: 1.8;
+  padding: 24px;
  }
